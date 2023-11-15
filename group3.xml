@@ -1,0 +1,25 @@
+<suite name="test_suite">
+	<test name="Group A">
+		<groups>
+			<run>
+				<include name="Group A" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.test.groups.Groups" />
+		</classes>
+	</test> <!--
+	Test -->
+	<test name="Group B">
+		<groups>
+			<run>
+				<include name="Group B" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.test.groups.Groups" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

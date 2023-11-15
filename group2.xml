@@ -1,0 +1,14 @@
+<suite name="test_suite">  
+<test name="Loan">  
+<groups>  
+<run>  
+<include name="SmokeTest"/>  
+</run>  
+</groups>  
+ <classes>  
+ <class name="com.test.groups.Personal_loan"/>  
+ <class name="com.test.groups.Home_loan"/>  
+  <class name="com.test.groups.Car_loan"/>  
+  </classes>  
+  </test> <!-- Test -->  
+ </suite> <!-- Suite -->  

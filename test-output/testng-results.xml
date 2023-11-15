@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T21:55:16 IST" name="Default suite" finished-at="2023-11-15T21:55:16 IST" duration-ms="779">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T21:55:16 IST" name="Default test" finished-at="2023-11-15T21:55:16 IST" duration-ms="779">
+      <class name="com.testNg.com.testNg_test.Dataprovider">
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testNg.com.testNg_test.Dataprovider@47faa49c]" started-at="2023-11-15T21:55:16 IST" name="test1" data-provider="dataProvider1" finished-at="2023-11-15T21:55:16 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rob]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rob@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testNg.com.testNg_test.Dataprovider@47faa49c]" started-at="2023-11-15T21:55:16 IST" name="test1" data-provider="dataProvider1" finished-at="2023-11-15T21:55:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dan@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testNg.com.testNg_test.Dataprovider@47faa49c]" started-at="2023-11-15T21:55:16 IST" name="test1" data-provider="dataProvider1" finished-at="2023-11-15T21:55:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amar@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testNg.com.testNg_test.Dataprovider@47faa49c]" started-at="2023-11-15T21:55:16 IST" name="test1" data-provider="dataProvider1" finished-at="2023-11-15T21:55:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Joseph]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Joseph@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testNg.com.testNg_test.Dataprovider@47faa49c]" started-at="2023-11-15T21:55:16 IST" name="test1" data-provider="dataProvider1" finished-at="2023-11-15T21:55:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shravya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shravya@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testNg.com.testNg_test.Dataprovider@47faa49c]" started-at="2023-11-15T21:55:16 IST" name="test1" data-provider="dataProvider1" finished-at="2023-11-15T21:55:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mayur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mayur@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[password6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.testNg.com.testNg_test.Dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

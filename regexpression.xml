@@ -1,0 +1,14 @@
+<suite name="test_suite">
+	<test name="Including test cases">
+		<groups>
+			<run>
+				<include name="Include.*" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.test.groups.Regular_Expression" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->  

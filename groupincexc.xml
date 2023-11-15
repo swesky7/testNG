@@ -1,0 +1,15 @@
+<suite name="test_suite">
+	<test name="Include and Exclude Group">
+		<groups>
+			<run>
+				<include name="Include Group" />
+				<exclude name="Exclude Group" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.test.groups.ExcludeIncludegroups" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->  
